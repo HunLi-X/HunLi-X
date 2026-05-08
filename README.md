@@ -10,7 +10,24 @@
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
 
-# One More Thing
+<h2 style="
+  background: linear-gradient(45deg, #ff0000, #ff7700, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+  background-size: 300% 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: neonFlow 4s ease-in-out infinite;
+  filter: drop-shadow(0 0 8px rgba(255,255,255,0.6));
+  font-weight: bold;
+">One More Thing</h2>
+
+<style>
+@keyframes neonFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 欢迎与我取得联系！无论是关于博客的问题、建议，还是与我分享您的故事，我都很乐意听到您的声音。
 
