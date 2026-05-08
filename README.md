@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="index.png" alt="banner" />
+  <img src="https://cnb.cool/Bring/Bring/-/blob/792220c1df07b74a317232715a2e52ad713f91c2/index.png" alt="banner" />
 </p>
 
 <p align="center">
