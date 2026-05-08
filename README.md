@@ -10,7 +10,7 @@
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
 
-<h2 style="
+<h1 style="
   background: linear-gradient(45deg, #ff0000, #ff7700, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
   background-size: 300% 300%;
   -webkit-background-clip: text;
@@ -19,7 +19,7 @@
   animation: neonFlow 4s ease-in-out infinite;
   filter: drop-shadow(0 0 8px rgba(255,255,255,0.6));
   font-weight: bold;
-">One More Thing</h2>
+">One More Thing</h1>
 
 <style>
 @keyframes neonFlow {
