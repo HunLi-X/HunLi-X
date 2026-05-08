@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cnb.cool/Bring/Bring/-/git/raw/792220c1df07b74a317232715a2e52ad713f91c2/index.png" alt="banner" />
+  <img src="https://res.arsrna.cn/images/cnb/skirk_main.png" alt="banner" />
 </p>
 
 <p align="center">
