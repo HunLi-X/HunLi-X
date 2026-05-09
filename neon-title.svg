@@ -27,6 +27,6 @@
   </defs>
   <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
         font-family="'Arial Black', 'Helvetica Neue', sans-serif"
-        font-size="32" font-weight="900"
+        font-size="24" font-weight="900"
         fill="url(#rainbow)" filter="url(#glow)">One More Thing</text>
 </svg>
