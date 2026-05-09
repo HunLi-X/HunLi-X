@@ -11,9 +11,8 @@
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
 
-<p align="left">
-  <img src="/neon-title.svg" alt="One More Thing" width="600"/>
-</p>
+<img src="./images/neon-title.svg" alt="One More Thing" width="280"/>
+
 
 欢迎与我取得联系！无论是关于博客的问题、建议，还是与我分享您的故事，我都很乐意听到您的声音。
 
