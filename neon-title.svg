@@ -1,32 +1,80 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="60" viewBox="0 0 250 60">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 4 580 50">
   <defs>
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
+    <linearGradient id="rainbow" x1="0%" y1="100%" x2="100%" y2="0%">
       <stop offset="0%">
         <animate attributeName="stop-color"
           values="#ff0000;#ff7700;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff0000"
-          dur="4s" repeatCount="indefinite"/>
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+      </stop>
+      <stop offset="16.67%">
+        <animate attributeName="stop-color"
+          values="#ff7700;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff0000;#ff7700"
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+      </stop>
+      <stop offset="33.33%">
+        <animate attributeName="stop-color"
+          values="#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff0000;#ff7700;#ffff00"
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
       </stop>
       <stop offset="50%">
         <animate attributeName="stop-color"
           values="#00ff00;#00ffff;#0000ff;#8b00ff;#ff0000;#ff7700;#ffff00;#00ff00"
-          dur="4s" repeatCount="indefinite"/>
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+      </stop>
+      <stop offset="66.67%">
+        <animate attributeName="stop-color"
+          values="#00ffff;#0000ff;#8b00ff;#ff0000;#ff7700;#ffff00;#00ff00;#00ffff"
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+      </stop>
+      <stop offset="83.33%">
+        <animate attributeName="stop-color"
+          values="#0000ff;#8b00ff;#ff0000;#ff7700;#ffff00;#00ff00;#00ffff;#0000ff"
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
       </stop>
       <stop offset="100%">
         <animate attributeName="stop-color"
           values="#8b00ff;#ff0000;#ff7700;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff"
-          dur="4s" repeatCount="indefinite"/>
+          dur="4s" repeatCount="indefinite"
+          calcMode="spline"
+          keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
       </stop>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+
+    <filter id="neon" x="-15%" y="-60%" width="130%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="outerBlur"/>
+      <feColorMatrix in="outerBlur" type="matrix"
+        values="3 0 0 0 0.3
+                0 3 0 0 0.3
+                0 0 3 0 0.3
+                0 0 0 0.6 0" result="whiteGlow"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="innerBlur"/>
+      <feColorMatrix in="innerBlur" type="matrix"
+        values="1.8 0 0 0 0.1
+                0 1.8 0 0 0.1
+                0 0 1.8 0 0.1
+                0 0 0 0.8 0" result="colorGlow"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="whiteGlow"/>
+        <feMergeNode in="colorGlow"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
-        font-family="'Arial Black', 'Helvetica Neue', sans-serif"
-        font-size="24" font-weight="900"
-        fill="url(#rainbow)" filter="url(#glow)">One More Thing</text>
+
+  <text x="298" y="32" text-anchor="middle" dominant-baseline="central"
+        font-family="'Arial Black', 'Impact', 'Trebuchet MS', sans-serif"
+        font-size="36" font-weight="900" letter-spacing="2"
+        fill="url(#rainbow)" filter="url(#neon)">One More Thing</text>
 </svg>
