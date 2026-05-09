@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70" viewBox="0 0 600 70">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%" spreadMethod="pad">
+      <stop offset="0%">
+        <animate attributeName="stop-color"
+          values="#ff0000;#ff7700;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff;#ff0000"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%">
+        <animate attributeName="stop-color"
+          values="#00ff00;#00ffff;#0000ff;#8b00ff;#ff0000;#ff7700;#ffff00;#00ff00"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%">
+        <animate attributeName="stop-color"
+          values="#8b00ff;#ff0000;#ff7700;#ffff00;#00ff00;#00ffff;#0000ff;#8b00ff"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <text x="50%" y="50%" dominant-baseline="central" text-anchor="middle"
+        font-family="'Arial Black', 'Helvetica Neue', sans-serif"
+        font-size="42" font-weight="900"
+        fill="url(#rainbow)" filter="url(#glow)">One More Thing</text>
+</svg>
