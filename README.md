@@ -11,7 +11,7 @@
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
 
-<p align="center">
+<p align="left">
   <img src="/neon-title.svg" alt="One More Thing" width="600"/>
 </p>
 
