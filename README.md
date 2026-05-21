@@ -2,13 +2,22 @@
   <img src="/index.png" alt="banner" />
   <img src="https://cnb.cool/arsrna/arsrna/-/git/raw/main/MeetWith-2.gif" alt="banner" />
 </p>
-[GitHub](https://github.com/HunLi-X)
-[CNB](https://cnb.cool/u/xhunli)
+
+<p align="center">
+  <a href="https://github.com/HunLi-X">
+    <img src="https://img.shields.io/badge/Auther--HunLi-ff69b4?logo=github&logoColor=white" alt="Auth" />
+  </a>
+  <a href="https://cnb.cool/u/xhunli">
+    <img src="https://img.shields.io/badge/CNB-xhunli-F76945?logo=git&logoColor=white" alt="CNB" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://commit.cool/badge/user/streak/xhunli" alt="streak" />
   <img src="https://commit.cool/badge/user/active_days/xhunli" alt="active days" />
   <img src="https://commit.cool/badge/user/age/xhunli" alt="age" />
 </p>
+
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
 
