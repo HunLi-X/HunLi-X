@@ -2,8 +2,8 @@
   <img src="/index.png" alt="banner" />
   <img src="https://cnb.cool/arsrna/arsrna/-/git/raw/main/MeetWith-2.gif" alt="banner" />
 </p>
-[![Auth]](https://github.com/HunLi-X)
-[![cnb]](https://cnb.cool/u/xhunli)
+[GitHub](https://github.com/HunLi-X)
+[CNB](https://cnb.cool/u/xhunli)
 <p align="center">
   <img src="https://commit.cool/badge/user/streak/xhunli" alt="streak" />
   <img src="https://commit.cool/badge/user/active_days/xhunli" alt="active days" />
