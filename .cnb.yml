@@ -1,0 +1,13 @@
+# 触发器：推送到主分支
+main: #分支
+  push: #有提交时
+    - imports: https://cnb.cool/1255027942/key/-/blob/main/github.yml
+      stages:
+       #同步到 GitHub 仓库
+        - name: sync to github
+          image: tencentcom/git-sync
+          settings:
+            target_url: https://github.com/HunLi-X/HunLi-X.git
+            auth_type: https
+            username: ${GIT_USERNAME}
+            password: ${GIT_ACCESS_TOKEN}
