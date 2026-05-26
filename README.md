@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Blog-HunLi-008080?style=flat&logo=googlechrome&logoColor=white" alt="Blog" />
   </a>
   <a href="https://space.bilibili.com/526083657">
-    <img src="https://img.shields.io/badge/Bilibili-HunLi-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-小昏黎-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="https://wpa.qq.com/msgrd?v=3&uin=1255027942&site=qq&menu=yes">
     <img src="https://img.shields.io/badge/QQ-1255027942-EB1923?style=flat&logo=tencentqq&logoColor=white" alt="QQ" />
