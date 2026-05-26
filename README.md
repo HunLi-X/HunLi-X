@@ -20,7 +20,13 @@
     <img src="https://img.shields.io/badge/QQ-1255027942-EB1923?style=flat&logo=tencentqq&logoColor=white" alt="QQ" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg" />&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" />&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" />&nbsp;
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />
+</p>
 
 
 <p align="center">
