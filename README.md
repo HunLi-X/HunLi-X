@@ -10,7 +10,11 @@
   <a href="https://cnb.cool/u/xhunli">
     <img src="https://img.shields.io/badge/CNB-xhunli-F76945?logo=git&logoColor=white" alt="CNB" />
   </a>
+  <a href="https://hunli.100w.top/">
+    <img src="https://img.shields.io/badge/Blog-昏黎站-008080?logo=googlechrome&logoColor=white" alt="Blog" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://commit.cool/badge/user/streak/xhunli" alt="streak" />
