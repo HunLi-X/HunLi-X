@@ -33,7 +33,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" />&nbsp;
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" />*（仅作装饰，不代表我完成了该活动）*
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" /></br>*（仅作装饰，不代表我完成了该活动）*
 </p>
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
