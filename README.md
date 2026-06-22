@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Ming01.png" alt="banner" />
+  <img src="/Ming02.png" alt="banner" />
   <img src="https://cnb.cool/arsrna/arsrna/-/git/raw/main/MeetWith-2.gif" alt="banner" />
 </p>
 
