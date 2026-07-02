@@ -47,7 +47,9 @@
 
 如果您有任何私人或业务方面的问题，可以通过电子邮件与我联系。
 
-📧 Email: [xhunli@qq.com](mailto:xhunli@qq.com)</p>
+📧 Email: 
+[admin@aeris.cool](mailto:admin@aeris.cool)</p>
+[xhunli@qq.com](mailto:xhunli@qq.com)</p>
 [520@zut.edu.cn](mailto:520@zut.edu.cn)</p>
 [xhunli1314@gmail.com](mailto:xhunli1314@gmail.com)[不常用]</p>
 [s1255027942@163.com](mailto:s1255027942@163.com)[不常用]
