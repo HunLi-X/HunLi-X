@@ -28,13 +28,7 @@
   <img src="https://commit.cool/badge/user/active_days/xhunli" alt="active days" />
   <img src="https://commit.cool/badge/user/age/xhunli" alt="age" />
 </p>
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare1.svg" />&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" />&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />&nbsp;
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg" /></br>*（仅作装饰，不代表我完成了该活动）*
-</p>
+
 
 <img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%" height="3">
 
